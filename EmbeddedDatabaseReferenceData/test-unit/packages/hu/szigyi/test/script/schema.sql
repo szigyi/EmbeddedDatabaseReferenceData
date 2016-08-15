@@ -1,0 +1,5 @@
+CREATE SCHEMA szigyi
+
+SET SCHEMA szigyi
+
+CREATE TABLE User (id INT PRIMARY KEY, name VARCHAR(255))
